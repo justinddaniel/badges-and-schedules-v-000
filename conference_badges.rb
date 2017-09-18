@@ -23,4 +23,3 @@ def printer(attendees)
   room_assignments = assign_rooms(attendees)
   badges_and_room_assignments = []
 end
-
